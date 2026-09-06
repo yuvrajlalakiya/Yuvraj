@@ -1,0 +1,8 @@
+{
+  "name": "Zip UPI",
+  "description": "Next-gen UPI payment system designed for minors under 18 with instant Aadhaar e-KYC, minor bank account linking, QR code scanning, customizable spending limits, and exciting updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
